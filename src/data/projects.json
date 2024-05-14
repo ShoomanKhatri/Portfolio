@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Restaurant App",
+    "imageSrc": "projects/Restro.png",
+    "description": "This is a project made to learn fullstack.",
+    "skills": ["MERN", "render", "verecel"],
+    "demo": "https://restaurant-app-olive.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Travel",
+    "imageSrc": "projects/TravelNow.png",
+    "description": "This is a project made for  practicing.",
+    "skills": ["React", "Nextjs", "Tailwindcss"],
+    "demo": "https://travel-mu-ecru.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Currency Converter",
+    "imageSrc": "projects/currencyconverter.png",
+    "description": "This is a project made for practice.",
+    "skills": ["React", "Tailwind", "vercel"],
+    "demo": "https://currencyconverter-roan.vercel.app/",
+    "source": "https://www.github.com"
+  }
+]
